@@ -1,3 +1,9 @@
+/* GLOBAL */
+body {
+	font-family: "Fredoka One", cursive;
+}
+
+/* NAVIGATION */
 nav {
 }
 
@@ -17,4 +23,9 @@ nav {
 	font-size: 20px;
 	text-transform: uppercase;
 	color: red;
+}
+
+.nav__link:hover {
+	text-decoration-line: overline;
+	color: black;
 }
