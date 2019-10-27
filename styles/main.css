@@ -1,3 +1,13 @@
+/* VARIABLES */
+:root {
+	--mainDark: #040066;
+	--secondDark: #0a0099;
+	--mainLight: #ffffff;
+	--secondLight: #006ee5;
+	--darkText: #000000;
+	--lightText: #ffffff;
+}
+
 /* GLOBAL */
 body {
 	font-family: "Fredoka One", cursive;
