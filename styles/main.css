@@ -53,12 +53,31 @@ nav {
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-end;
+	align-items: center;
 	margin: 0;
 	padding: 15px;
 }
 
 .nav__item {
 	margin: 0 20px;
+}
+
+.nav__item--button {
+	margin: 0 20px;
+	padding: 9px;
+	font-size: 18px;
+	border-radius: 15px;
+	background: var(--secondLight);
+	color: var(--lightText);
+	border: 2px solid var(--mainLight);
+	cursor: pointer;
+	font-family: "Fredoka One", cursive;
+}
+
+.nav__item--button:hover {
+	background: var(--mainLight);
+	color: var(--darkText);
+	border: 2px solid var(--secondLight);
 }
 
 .nav__link {
@@ -75,7 +94,7 @@ nav {
 
 /* Top */
 .welcome {
-	margin-top: 10px;
+	margin-top: 30px;
 	padding: 20px;
 }
 
