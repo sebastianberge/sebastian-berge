@@ -1,4 +1,4 @@
-<img src="./src/assets/images/logo.png" width="100%" />
+<img src="./src/assets/images/logo.png" width="50%" style="text-align: center;" />
 
 # Sebastian Berge @ Portfolio and showcase homepage
 
