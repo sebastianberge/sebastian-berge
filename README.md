@@ -2,10 +2,13 @@
 
 The website is only an extensition of the GitHub profile and some usefull and more detailed information about me. The site is in progress and will be updated when I have some spare-time.
 
-### Documentation
+### Content
 
-**Built on:**
+1. [Documentation](#documentation)
+2. [Install](#install)
 
-- HTML
-- CSS
-- JavaScript
+## Documentation <a name="documentation"></a>
+
+**_Built on:_** <a href="https://www.reactjs.org">React</a>
+
+## Install <a name="install"></a>
