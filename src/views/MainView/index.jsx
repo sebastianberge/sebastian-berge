@@ -1,5 +1,4 @@
 import React, { Component } from "react"
-import "./main-view.scss"
 
 class Main extends Component {
 	render() {
