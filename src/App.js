@@ -2,6 +2,7 @@ import React from "react"
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom"
 
 // Components
+import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 
 // Views
@@ -11,6 +12,7 @@ function App() {
 	return (
 		<React.Fragment>
 			<Router>
+				<Hero title="Sebastian Berge" subtitle="Computer Engineer Student @ Western University of Applied Sciences, Norway" />
 				<Navbar />
 				<Switch>
 					<Route exact path='/' component={Main} />
